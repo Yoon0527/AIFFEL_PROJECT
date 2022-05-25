@@ -1,2 +1,3 @@
 # AIFFEL_Project: i-pills
-1. 220427 - YOLOv5로 414장의 데이터를 epoch 49번 
+### 1. 개요
+  * jetson nano를 활용한 알약 구별 
